@@ -35,10 +35,6 @@ The environment is built with **Pygame** for the game interface and **PyTorch** 
 2. **Install Dependencies**: 
 Make sure you have Python installed. Install the required dependencies using `pip`:
 
-```bash
-pip install -r requirements.txt
- ```
-
 3. **Train the AI Agent**: 
 To start training the Snake AI, simply run the following command in your terminal:
 
