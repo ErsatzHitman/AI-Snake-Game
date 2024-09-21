@@ -31,9 +31,9 @@ The environment is built with **Pygame** for the game interface and **PyTorch** 
    ```bash
    git clone https://github.com/ErsatzHitman/AI-Snake-Game.git
     ```
-   
+
 2. **Install Dependencies**: 
-Make sure you have Python installed. Install the required dependencies using `pip`:
+Make sure you have Python installed. Install the required dependencies using `pip`
 
 3. **Train the AI Agent**: 
 To start training the Snake AI, simply run the following command in your terminal:
